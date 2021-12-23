@@ -1,7 +1,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tomfreeos&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-## 大家好，我是**付瑞彪**</br>Hello, my name is **Tom Free**
+## 大家好，我是**付瑞彪**</br>Hello, I'm **Tom Free**
 
 - 职业：嵌入式软硬件工程师</br>Job: Embedded software and hardware engineer
 - 工作地：深圳</br>Address: Shenzhen, China
