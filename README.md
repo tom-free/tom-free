@@ -6,5 +6,5 @@
 - 职业：嵌入式软硬件工程师</br>Job: Embedded software and hardware engineer
 - 工作地：深圳</br>Address: Shenzhen, China
 - 家乡：湖北恩施</br>Hometown: Enshi, Hubei, China
-- 博客地址：[www.tomfree.cn](https://tomfree.cn)</br>Blog: [www.tomfree.cn](https://tomfree.cn)
+- 博客地址：[www.tomfree.cn](https://www.tomfree.cn)</br>Blog: [www.tomfree.cn](https://www.tomfree.cn)
 - 邮箱：tomfreefu@qq.com</br>Email: tomfreefu@qq.com
